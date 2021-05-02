@@ -35,10 +35,13 @@ O docker-compose sobre 10 componentes para rodar o RasaX:
 
 # Executando
 
-1. Pré-requisitos:
-    - (Docker Desktop For Windows)[https://www.docker.com/products/docker-desktop];
+Para chegar até aqui foram feitas várias configurações e ajustes conforme orientações do [tutorial ro Rasa X](https://rasa.com/docs/rasa-x/installation-and-setup/install/docker-compose)
 
-1. Comandos para subir a infra (pode usar um "pouquinho" de memória :-P):
+1. [só na 1a vez] Pré-requisitos:
+    - (Docker Desktop For Windows)[https://www.docker.com/products/docker-desktop];
+    - Python acessível via linha de comando.
+
+1. Comandos para subir a infra (pode demorar para baixar e usar uma quantidade razoável de memória :-P):
     - Usando seu terminal de preferência, entre na pasta rasa-infra deste projeto e digite `docker-compose up`. 
         Isso irá baixar todas as imagens necessários para subir os 10 containers no pacote para rodar o RasaX.
         > Info 1: Usando o argumento -d roda tudo em segundo plano;
@@ -47,6 +50,8 @@ O docker-compose sobre 10 componentes para rodar o RasaX:
 1. Após tudo no ar, acessar http://localhost:80 no navegador;
     > Se a porta 80 estiver ocupada, é possível alterar a porta exposta no #rasa-infra/docker-compose.yml.
 
+1. [só na 1a vez] No terminal, na pasta rasa-infra, execute o comando para definir a senha `python rasa_x_commands.py create --update admin me 12345`
+
 1. A senha de acesso é `12345`;
 
-1. Conectar à conta git...
+1. Conectar à conta git (botão no canto esquerdo inferior) seguindo as orientações da tela.
