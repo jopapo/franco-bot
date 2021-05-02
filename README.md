@@ -55,3 +55,8 @@ Para chegar até aqui foram feitas várias configurações e ajustes conforme or
 1. A senha de acesso é `12345`;
 
 1. Conectar à conta git (botão no canto esquerdo inferior) seguindo as orientações da tela.
+1.1. Utilizar a conta `git@github.com:jopapo/franco-bot.git`;
+1.1. Alterar a target branch para `main`;
+1.1. Adicionar a chave SSH listada na conta do seu usuário no github;
+1.1. Clicar em verificar;
+1.1. Confirmar.
