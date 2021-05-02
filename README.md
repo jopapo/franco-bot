@@ -17,7 +17,12 @@ Encontramos um exemplo em https://github.com/RasaHQ/financial-demo que cria o cl
 Visão geral sobre os arquivos:
 - `/rasa-infra` - informações gerais para executar a plataforma;
 - `/rasa-infra/docker-compose.yml` - informações para subida dos containers localmente - explicado mais pra frente o passo a passo;
-- `/rasa-data` - dados para rodar.
+- `/data` - dados para o RasaX;
+- `/data/nlu` - NLU - Natural Language Undestanding. Dados para treinamento do Rasa X;
+- `/data/rules` - regras utilizadas no treinamento;
+- `/data/stories` - estórias utilizadas como simulações de conversação para treinamento;
+- `/config.yml` - configurações do RasaX;
+- `/domain.yml` - informações do domínio do RasaX.
 
 Boa parte da configuração é possível pela UI do RasaX.
 
