@@ -1,10 +1,10 @@
 # franco-bot
-Chatbot para aprender sobre Chatbots.
+Chatbot para aprender sobre Chatbots. :dizzy_face:
 
 # Descrição
 Proposta de trabalho final para a disciplina de chatbots da Pós Graduação em Ciência de Dados da FURB.
 
-Membros: @mauroschramm e Barbara Sabrina.
+Membros: Mauro Schramm <@mauroschramm> e Barbara Sabrina <@barbararovigo>.
 
 Professor: Cristiano Roberto Franco.
 
