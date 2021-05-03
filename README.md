@@ -41,7 +41,7 @@ O docker-compose sobre os seguintes componentes para rodar o RasaX:
 
 Para chegar até aqui foram feitas várias configurações e ajustes conforme orientações do [tutorial ro Rasa X](https://rasa.com/docs/rasa-x/installation-and-setup/install/docker-compose). O passo a passo simplificado segue:
 
-1. _só na 1a vez_ Pré-requisitos:
+1. _(só na 1a vez)_ Pré-requisitos:
     - [Docker Desktop For Windows](https://www.docker.com/products/docker-desktop);
     - Python acessível via linha de comando / terminal.
 
@@ -53,7 +53,7 @@ Para chegar até aqui foram feitas várias configurações e ajustes conforme or
         - Info 1: Usando o argumento -d roda tudo em segundo plano;
         - Info 2: Ctrl+C no terminal interrompe todas as instâncias;
     
-1. _só na 1a vez_ No terminal, na pasta rasa-infra, execute o comando para definir a senha:
+1. _(só na 1a vez)_ No terminal, na pasta rasa-infra, execute o comando para definir a senha:
 
     `$ python rasa_x_commands.py create --update admin me 12345`
 
@@ -67,4 +67,5 @@ Para chegar até aqui foram feitas várias configurações e ajustes conforme or
     1. Alterar a target branch para `main`;
     1. Adicionar a chave SSH listada na conta do seu usuário no github;
     1. Clicar em verificar;
+        > Em caso de erro, é possível ver detalhes do erro na console dos containers.
     1. Confirmar.
