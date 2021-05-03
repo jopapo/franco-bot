@@ -43,7 +43,7 @@ Para chegar até aqui foram feitas várias configurações e ajustes conforme or
 
 1. _(só na 1a vez)_ Pré-requisitos:
     - [Docker Desktop For Windows](https://www.docker.com/products/docker-desktop);
-    - Python acessível via linha de comando / terminal.
+    - Python 3 acessível via linha de comando / terminal.
 
 1. Comandos para subir a infra (pode demorar para baixar e usar uma quantidade razoável de memória :-P):
 
