@@ -46,6 +46,7 @@ Para chegar até aqui foram feitas várias configurações e ajustes conforme or
     - Python acessível via linha de comando / terminal.
 
 1. Comandos para subir a infra (pode demorar para baixar e usar uma quantidade razoável de memória :-P):
+
     `$ docker-compose up`
     - Usando seu terminal de preferência, entre na pasta rasa-infra deste projeto e digite a linha de comando acima. 
         Isso irá baixar todas as imagens necessários para subir os 10 containers no pacote para rodar o RasaX.
@@ -53,6 +54,7 @@ Para chegar até aqui foram feitas várias configurações e ajustes conforme or
         - Info 2: Ctrl+C no terminal interrompe todas as instâncias;
     
 1. _só na 1a vez_ No terminal, na pasta rasa-infra, execute o comando para definir a senha:
+
     `$ python rasa_x_commands.py create --update admin me 12345`
 
 1. Após tudo no ar, acessar http://localhost:80 no navegador;
@@ -61,8 +63,8 @@ Para chegar até aqui foram feitas várias configurações e ajustes conforme or
 1. A senha de acesso é `12345`;
 
 1. Conectar à conta git (botão no canto esquerdo inferior) seguindo as orientações da tela.
-    1.1. Utilizar a conta `git@github.com:jopapo/franco-bot.git`;
-    1.1. Alterar a target branch para `main`;
-    1.1. Adicionar a chave SSH listada na conta do seu usuário no github;
-    1.1. Clicar em verificar;
-    1.1. Confirmar.
+    1. Utilizar a conta `git@github.com:jopapo/franco-bot.git`;
+    1. Alterar a target branch para `main`;
+    1. Adicionar a chave SSH listada na conta do seu usuário no github;
+    1. Clicar em verificar;
+    1. Confirmar.
