@@ -1,0 +1,195 @@
+NLP
+
+Classificação de texto 
+  Anti-Spam 
+  Labelling 
+  Detecção de Idioma 
+  Análise de redes sociais 
+  Detecção de Intenção 
+
+Recuperação de informação 
+  Detecção de anomalia 
+  
+Geração de linguagem natural 
+  Tradução 
+  Smart reply 
+  Geração de texto 
+  Resposta a perguntas abertas 
+  Sumarização de texto 
+  
+Entendimento de linguagem natural 
+  Assistentes digitais 
+  Análise de sentimento 
+
+Princípios básicos 
+  Bag of words 
+  Tokenização 
+  Stop words 
+  Stemming 
+  Lemmatization 
+  Expressões regulares 
+
+NLTK 
+
+Modelos de linguagem 
+  Modelos estatísticos 
+  Modelos neurais 
+
+Chatbots 
+  Turing test 
+  Argumento do quarto chinês 
+  Loebner Prize 
+  Evolução da interação humana-computador 
+
+  Tipos de interface 
+    Chat 
+    Voz 
+    Multimodal 
+ 
+ Comando em voz tem mudado comportamento das pessoas 
+    60% das pessoas brasileiras controlam celulares por voz 
+    1,6 bilhão de pessoas nascendo nesta realidade 
+ 
+ Estágios de adoção 
+    Pessoas e empresas sem conhecimento 
+    Precisamos de bots 
+    Bot-first	 
+    Bot-only 
+ 
+ Resultados 
+  Economia anual de US$ 23 nos EUA 
+  Quantidade de bots produzidos no mercado brasileiro 
+  Raio-x dos bots em operação no Brasil 
+  Canais com bots nas empresas 
+  Demanda por finalidade 2020 
+ 
+ Oportunidades e áreas de crescimento para os próximos 2 a 3 anos 
+ 
+ Desafios e preocupações para os próximos 2 a 3 anos 
+ 
+ Abordagens para criação de chatbots 
+  Intenção 
+  Entidades 
+  Slots 
+ 
+ Senior Brain 
+ 
+ GPT-3 
+ 
+ Google Duplex 
+ 
+ BERT 
+ 
+ Boas Práticas 
+  Personalidade 
+  Nomeação 
+  Logos 
+  Intervenção humana 
+  How toc reate a bot persona 
+ 
+ Aspectos a considerar 
+  Onboarding 
+  Script de funcionalidades 
+  Feedback e erros 
+  Ajuda e suporte 
+  
+ Interações ricas 
+  Botões 
+  Menus persistentes 
+  Emojis, gifs e imagens 
+  Webviews 
+  Templates 
+  Canvas interativo 
+  
+ Descoberta de bots 
+  Anúncios/ads 
+  Embeded/QR codes 
+  Divulgação promocional 
+  Links diretos 
+  
+ Engajamentos 
+  Notificações 
+  Invocação das pessoas 
+  Subscription 
+  
+ Confirmações 
+  Explícita 
+  Implícita 
+ 
+ Marcadores 
+  Progressão/linha do tempo 
+  Reconhecimento 
+  Feedback positivo 
+ 
+ Algumas ideias 
+  IA conversacional 
+    NLP 
+    Reconhecimento de intenções 
+    Reconhecimento de entidades 
+    Fulfillment 
+    Resposta de voz otimizada 
+    Texto de fala dinâmica 
+    Texto de fala dinâmica 
+    Aprendizagem de máquina 
+    Consciência contextual 
+  Open domain/close domain/retrieved response/generated response 
+    Impossible 
+    Generalist chatbot 
+    Rule-based response 
+    Specialist chatbot 
+ Conclusões 
+ 
+
+Métricas e curadoria 
+  Métricas conversacionais 
+    Avaliar resultado 
+    Identificar oportunidade 
+    Priorizar ações 
+    Aprender com o que foi feito 
+  Indicadores 
+    Volumetria 
+    Taxa de abandono 
+    Taxa de sucesso 
+    Retenção 
+    Média de mensagens por atendimento 
+    Feedback do usuário 
+    Retenção 
+    Taxa de transbordo 
+    Mensagens não entendidas 
+    Sentimento em relação ao bot 
+    Novos usuários 
+    Alcance orgânico 
+    Bounce rate 
+    Taxa de fallback 
+    Roi 
+  Métricas 
+    Intenções 
+    Matriz de confusão 
+    Acurácia 
+    Precision 
+    Recall 
+    F1 score 
+  Chatbot analytics 
+    Project stages 
+      Análise de sentimentos 
+      Segmentação de consumidores 
+      Análise de intenções 
+      Busca textual 
+  Qual ferramenta? 
+    Dashboards 
+  OKRS 
+  Curadoria 
+    Curador 
+  
+
+ 
+Link Fluxograma: 
+https://drive.google.com/file/d/1B5qJiOdJkuE1ap2H2I8qbdEsnAyqqtUV/view?usp=sharing 
+ 
+Link em como fazer o acesso ao watson assistant 
+https://cloud.ibm.com/docs/assistant?topic=assistant-access-control&locale=pt-BR 
+schramm.mauro@gmail.com 
+ 
+Exemplo chatbot com rasa 
+GitHub - botfront/rasa-webchat: A feature-rich chat widget for Rasa and Botfront 
+ 
