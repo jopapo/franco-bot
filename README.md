@@ -4,68 +4,44 @@ Chatbot para aprender sobre Chatbots. :dizzy_face:
 # Descrição
 Proposta de trabalho final para a disciplina de chatbots da Pós Graduação em Ciência de Dados da FURB.
 
-Membros: Mauro Schramm <@mauroschramm> e Barbara Sabrina <@barbararovigo>.
+Membros: Barbara Sabrina <@barbararovigo>, João Paulo Poffo <@jopapo> e Mauro Schramm <@mauroschramm>
 
 Professor: Cristiano Roberto Franco.
 
+# Requisitos
+
+1. Construir um chatbot em portugues utilizando qualquer uma das tecnologias vistas em sala (rasa, watson, dialog flow, luis...se for usar algo diferente me avisar por email) com pelo menos 10 intenções;
+1. O bot deve ser de domínio fechado (menos restaurantes);
+   1. O bot deve ter uma UI (aplicativo, web, etc);
+   1. O bot deve ter integração com algum tipo de WS (local ou público...pode ser um mock);
+   1. O bot deve armazenar as conversas do usuário de alguma forma para usar no item 3;
+   1. Explicar arquitetura em um doc;
+1. Deverá ser criado um jupyter contendo pelo menos 3 indicadores ou métricas de conversas com o chatbot demonstradas através de gráficos;
+
 # Arquitetura base
 
-A plataforma escolhida para estudo e trabalho foi o [Rasa](https://rasa.com/docs/) e o [RasaX](https://rasa.com/docs/rasa-x/) para entregar as UIs de desenho + bot, bem como histórico das conversações.
+Iniciamos um estudo com o [Rasa](https://rasa.com/docs/). Porém, subir a infra do [RasaX](https://rasa.com/docs/rasa-x/) para entregar as UIs de edição e do Bot e histórico de conversações exigia um osquestrador e no mínimo 10 serviços rodando (Nginx, Postgres, Redit, Rabbit, Duckling, Rasa, etc.). Apesar de conseguirmos subir e simular algumas regras, este fator se tornou determinante para desistirmos do modelo e testarmos uma alternativa para entrega do trabalho.
 
-Encontramos um exemplo em https://github.com/RasaHQ/financial-demo que cria o cluster do rasa com todos os seus componentes e, de quebra, ajuda com alguns exemplos desse domínio financeiro.
+Então, optamos por uma abordagem mais simples onde temos o [Watson da IBM](https://www.ibm.com/br-pt/watson) como motor e assistente de modelagem de Chatbots.
 
-Visão geral sobre os arquivos:
-- `/rasa-infra` - informações gerais para executar a plataforma;
-- `/rasa-infra/docker-compose.yml` - informações para subida dos containers localmente - explicado mais pra frente o passo a passo;
-> As informações a seguir podem ser alteradas por dentro da UI do RasaX:
-- `/data` - dados para o RasaX;
-- `/data/nlu` - NLU - Natural Language Undestanding. Dados para treinamento do Rasa X;
-- `/data/rules` - regras utilizadas no treinamento;
-- `/data/stories` - estórias utilizadas como simulações de conversação para treinamento;
-- `/config.yml` - configurações do RasaX;
-- `/domain.yml` - informações do domínio do RasaX.
+## Componentes arquiteturais
 
-O docker-compose sobre os seguintes componentes para rodar o RasaX:
-1. Rasa Server - Nginx
-1. Rasa Worker
-1. Rasa Production
-1. Rasa X
-1. Rasa App
-1. Rasa Db Migration
-1. Rasa Db - PostGres
-1. Rasa Cache - Redis
-1. Rasa Broker - RabbitMQ
-1. Rasa Text Extractor - Duckling
+* IBM Watson: dkslfkdslfkldksfl;
+* [IBM Cloud Functions](https://cloud.ibm.com/functions/): para o WebService;
+   * : [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/): Biblioteca do python usada como tecnologia de WebScraping.
+* [Gifyu](https://gifyu.com/): Como CDN para as imagens de apoio do Chatbot;
 
-# Executando
 
-Para chegar até aqui foram feitas várias configurações e ajustes conforme orientações do [tutorial ro Rasa X](https://rasa.com/docs/rasa-x/installation-and-setup/install/docker-compose). O passo a passo simplificado segue:
+# Entregáveis
 
-1. _(só na 1a vez)_ Pré-requisitos:
-    - [Docker Desktop For Windows](https://www.docker.com/products/docker-desktop);
-    - Python 3 acessível via linha de comando / terminal.
+* PDF do fluxo de dialogo;
+* Fonte do projeto (frontend, backend, se for watson deve conter o json do bot, se for rasa o projeto todo menos o modelo);
+* Jupyter notebook com os indicadores/métricas no github;
+* Se a persistência for feita na cloud, não precisa demonstrar como, basta deixar claro no readme.md ou documentacao e se houver conversão, faze-la dentro do jupyter; 
 
-1. Comandos para subir a infra (pode demorar para baixar e usar uma quantidade razoável de memória :-P):
 
-    `$ docker-compose up`
-    - Usando seu terminal de preferência, entre na pasta rasa-infra deste projeto e digite a linha de comando acima. 
-        Isso irá baixar todas as imagens necessários para subir os 10 containers no pacote para rodar o RasaX.
-        - Info 1: Usando o argumento -d roda tudo em segundo plano;
-        - Info 2: Ctrl+C no terminal interrompe todas as instâncias;
-    
-1. _(só na 1a vez)_ No terminal, na pasta rasa-infra, execute o comando para definir a senha:
 
-    `$ python rasa_x_commands.py create --update admin me 12345`
 
-1. Após tudo no ar, acessar http://localhost:80 no navegador;
-    - Se a porta 80 estiver ocupada, é possível alterar a porta exposta no #rasa-infra/docker-compose.yml.
 
-1. A senha de acesso é `12345`;
-
-1. Conectar à conta git (botão no canto esquerdo inferior) seguindo as orientações da tela.
-    1. Utilizar a conta `git@github.com:jopapo/franco-bot.git`;
-    1. Alterar a target branch para `main`;
-    1. Adicionar a chave SSH listada na conta do seu usuário no github;
-    1. Clicar em verificar;
-        > Em caso de erro, é possível ver detalhes do erro na console dos containers.
-    1. Confirmar.
+Link para o chatbot:
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=df8505c9-3abd-4505-8898-eaf4aced5775&serviceInstanceID=702cc5ee-81a9-4536-9e63-4c05c7a35ab0
