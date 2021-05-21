@@ -26,22 +26,17 @@ Então, optamos por uma abordagem mais simples onde temos o [Watson da IBM](http
 
 ## Componentes arquiteturais
 
-* IBM Watson: dkslfkdslfkldksfl;
+* [IBM Watson](https://cloud.ibm.com/developer/watson/): para o gerenciador do ChatBot, com histórico de conversas, assistente de contrução e todos os recursos de IA necessários para um assistente virtual;
 * [IBM Cloud Functions](https://cloud.ibm.com/functions/): para o WebService;
    * : [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/): Biblioteca do python usada como tecnologia de WebScraping.
-* [Gifyu](https://gifyu.com/): Como CDN para as imagens de apoio do Chatbot;
+* [Gifyu](https://gifyu.com/): Como CDN para as imagens de apoio do Chatbot.
 
 
 # Entregáveis
 
+* [Link para o chatbot](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=df8505c9-3abd-4505-8898-eaf4aced5775&serviceInstanceID=702cc5ee-81a9-4536-9e63-4c05c7a35ab0);
 * PDF do fluxo de dialogo;
-* Fonte do projeto (frontend, backend, se for watson deve conter o json do bot, se for rasa o projeto todo menos o modelo);
+* Fonte do projeto ([webservice backend](functions.py) e json do watson);
 * Jupyter notebook com os indicadores/métricas no github;
-* Se a persistência for feita na cloud, não precisa demonstrar como, basta deixar claro no readme.md ou documentacao e se houver conversão, faze-la dentro do jupyter; 
 
-
-
-
-
-Link para o chatbot:
-https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=df8505c9-3abd-4505-8898-eaf4aced5775&serviceInstanceID=702cc5ee-81a9-4536-9e63-4c05c7a35ab0
+Como a persistência é do próprio Watson, criamos um indicador no jupyter usando o histórico de conversas.
