@@ -42,7 +42,7 @@ Então, optamos por uma abordagem usando [Watson da IBM](https://www.ibm.com/br-
 
 ## Diagrama do Bot
 
-![resources](https://drive.google.com/file/d/1hPa19jKAlQ8dNSgVYtnAxopbYW-mc9pf/pub?w=700&h=1200)
+![resources](https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=Fluxo%20FrancoBot#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1hPa19jKAlQ8dNSgVYtnAxopbYW-mc9pf%26export%3Ddownload)
 
 ## Gráficos extraídos pelo jupyter
 
