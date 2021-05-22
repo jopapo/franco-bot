@@ -36,7 +36,7 @@ Então, optamos por uma abordagem usando [Watson da IBM](https://www.ibm.com/br-
 * [Link para o chatbot](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=df8505c9-3abd-4505-8898-eaf4aced5775&serviceInstanceID=702cc5ee-81a9-4536-9e63-4c05c7a35ab0);
 * PDF do fluxo de dialogo;
 * Fonte do projeto ([webservice backend](functions.py) e json do watson);
-* [Jupyter notebook](NB_FRANCOBOT.py) com os [indicadores/métricas](#gráficos-extraídos-pelo-jupyter) no github;
+* [Jupyter notebook](NB_FRANCOBOT.ipynb) com os [indicadores/métricas](#gráficos-extraídos-pelo-jupyter) no github;
 
 Como a persistência é do próprio Watson, criamos um indicador no jupyter usando o histórico de conversas.
 
