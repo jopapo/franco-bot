@@ -18,6 +18,20 @@ Professor: Cristiano Roberto Franco.
    1. Explicar arquitetura em um doc;
 1. Deverá ser criado um jupyter contendo pelo menos 3 indicadores ou métricas de conversas com o chatbot demonstradas através de gráficos;
 
+Flow FrancoBot
+![image](https://user-images.githubusercontent.com/63163264/119211169-e7aa1700-ba86-11eb-8244-61b84ae9c807.png)
+
+Gráficos
+![image](https://user-images.githubusercontent.com/63163264/119211194-09a39980-ba87-11eb-953d-ee861db10d26.png)
+
+![image](https://user-images.githubusercontent.com/63163264/119211199-14f6c500-ba87-11eb-930e-41c1c7d3ced4.png)
+
+Nuvem de Palavras de Textos procurados no FrancoBot
+
+![image](https://user-images.githubusercontent.com/63163264/119211215-322b9380-ba87-11eb-9724-df20a4a2ab1e.png)
+
+
+
 # Arquitetura base
 
 Iniciamos um estudo com o [Rasa](https://rasa.com/docs/). Porém, subir a infra do [RasaX](https://rasa.com/docs/rasa-x/) para entregar as UIs de edição e do Bot e histórico de conversações exigia um osquestrador e no mínimo 10 serviços rodando (Nginx, Postgres, Redit, Rabbit, Duckling, Rasa, etc.). Apesar de conseguirmos subir e simular algumas regras, este fator se tornou determinante para desistirmos do modelo e testarmos uma alternativa para entrega do trabalho.
