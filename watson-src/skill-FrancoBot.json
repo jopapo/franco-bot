@@ -1,0 +1,3480 @@
+{
+  "intents": [
+    {
+      "intent": "abordagensCriacaoChatbots",
+      "examples": [
+        {
+          "text": "Abordagens chatbots"
+        },
+        {
+          "text": "Abordagens na criação de Chatbots"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "algumasIdeias",
+      "examples": [
+        {
+          "text": "Ideais"
+        },
+        {
+          "text": "Ideia"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "argumentoQuartoChines",
+      "examples": [
+        {
+          "text": "Argumento do quarto chinês"
+        },
+        {
+          "text": "Quarto chinês"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "aspectosConsiderar",
+      "examples": [
+        {
+          "text": "Aspectos a considerar"
+        },
+        {
+          "text": "Mostre aspectos a considerar em chatbots"
+        },
+        {
+          "text": "Quais aspectos considerar em um chatbot"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "boasPraticas",
+      "examples": [
+        {
+          "text": "Boas práticas"
+        },
+        {
+          "text": "Boas práticas Chatbots"
+        },
+        {
+          "text": "Boas práticas desenvolvimento"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "chatbotAnalytics",
+      "examples": [
+        {
+          "text": "Analítico"
+        },
+        {
+          "text": "Analytics"
+        },
+        {
+          "text": "Chatbot Analytics"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "chatBots",
+      "examples": [
+        {
+          "text": "Chat bots"
+        },
+        {
+          "text": "Chatbots"
+        },
+        {
+          "text": "O que é chatbots"
+        },
+        {
+          "text": "O que são chatbots"
+        },
+        {
+          "text": "Quero conhecer sobre chatbots"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "classificacaoTexto",
+      "examples": [
+        {
+          "text": "Classificação de texto"
+        },
+        {
+          "text": "Me explique classificação de texto"
+        },
+        {
+          "text": "O que é classificação de texto"
+        },
+        {
+          "text": "Quero conhecer classificação de texto"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "começar",
+      "examples": [
+        {
+          "text": "Começar"
+        },
+        {
+          "text": "Iniciar"
+        },
+        {
+          "text": "Início"
+        },
+        {
+          "text": "Recomeçar"
+        },
+        {
+          "text": "Reiniciar"
+        },
+        {
+          "text": "Tema inicial"
+        },
+        {
+          "text": "Topo"
+        },
+        {
+          "text": "Voltar ao começo"
+        },
+        {
+          "text": "Voltar ao tema inicial"
+        },
+        {
+          "text": "Volte ao começo"
+        },
+        {
+          "text": "Volte ao tema inicial"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "conclusoesChatbots",
+      "examples": [
+        {
+          "text": "Conclusões"
+        },
+        {
+          "text": "Mostre algumas conclusões sobre chatbots"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "confirmacaoMarcadores",
+      "examples": [
+        {
+          "text": "Confirmação"
+        },
+        {
+          "text": "Marcador"
+        },
+        {
+          "text": "Marcadores"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "curadoria",
+      "examples": [
+        {
+          "text": "Curador"
+        },
+        {
+          "text": "Curadoria"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "dashboards",
+      "examples": [
+        {
+          "text": "dashboards"
+        },
+        {
+          "text": "gráficos"
+        },
+        {
+          "text": "painéis"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "desafios",
+      "examples": [
+        {
+          "text": "Desafios e preocupações para os próximos anos"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "descobertaBots",
+      "examples": [
+        {
+          "text": "Descoberta de bots"
+        },
+        {
+          "text": "Descoberta de chatbots"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "encerramento",
+      "examples": [
+        {
+          "text": "acabado"
+        },
+        {
+          "text": "acabei"
+        },
+        {
+          "text": "encerrado"
+        },
+        {
+          "text": "encerrei"
+        },
+        {
+          "text": "fim"
+        },
+        {
+          "text": "terminado"
+        },
+        {
+          "text": "terminei"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "engajamentos",
+      "examples": [
+        {
+          "text": "Engajamento"
+        },
+        {
+          "text": "Engajamentos"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "entendimentoLinguagemNatural",
+      "examples": [
+        {
+          "text": "Compreensão de linguagem natural"
+        },
+        {
+          "text": "Entendimento de linguagem natural"
+        },
+        {
+          "text": "NLU"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "estagiosAdocao",
+      "examples": [
+        {
+          "text": "Mostre os estágios de adoção"
+        },
+        {
+          "text": "Quais os estágios de adoção"
+        }
+      ],
+      "description": "Estágios adoção"
+    },
+    {
+      "intent": "evoluçãoInterecaoHumanaComputador",
+      "examples": [
+        {
+          "text": "Evolução interação humana computador"
+        },
+        {
+          "text": "Interação humana computador"
+        },
+        {
+          "text": "Interação humana-computador"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "geracaoLinguagemNatural",
+      "examples": [
+        {
+          "text": "Geração"
+        },
+        {
+          "text": "Geração de linguagem natural"
+        },
+        {
+          "text": "O que é geração de linguagem natural"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "indicadores",
+      "examples": [
+        {
+          "text": "indicadores"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "interacoesRicas",
+      "examples": [
+        {
+          "text": "Interação rica"
+        },
+        {
+          "text": "Interações ricas"
+        },
+        {
+          "text": "O que são interações ricas"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "interfacesNaturais",
+      "examples": [
+        {
+          "text": "Interface natural"
+        },
+        {
+          "text": "Interfaces naturais"
+        },
+        {
+          "text": "Tipos de interface"
+        },
+        {
+          "text": "Tipos de interfaces naturais"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "metricas",
+      "examples": [
+        {
+          "text": "Medidas"
+        },
+        {
+          "text": "Métricas"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "metricasConversacionais",
+      "examples": [
+        {
+          "text": "Medidas conversacionais"
+        },
+        {
+          "text": "Métricas conversacionais"
+        },
+        {
+          "text": "Mostre métricas conversacionais"
+        },
+        {
+          "text": "o que são métricas conversacionais"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "NLP",
+      "examples": [
+        {
+          "text": "Natural Language Processing"
+        },
+        {
+          "text": "NLP"
+        },
+        {
+          "text": "Processamento de Linguagem Natural"
+        },
+        {
+          "text": "Qual a definição de NLP"
+        },
+        {
+          "text": "Quero conhecer NLP"
+        },
+        {
+          "text": "Quero saber sobre NLP"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "oi",
+      "examples": [
+        {
+          "text": "boa noite"
+        },
+        {
+          "text": "boa tarde"
+        },
+        {
+          "text": "bom dia"
+        },
+        {
+          "text": "congratulações"
+        },
+        {
+          "text": "ei"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "hey"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "legal"
+        },
+        {
+          "text": "oi"
+        },
+        {
+          "text": "olá"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "okrs",
+      "examples": [
+        {
+          "text": "objective key results"
+        },
+        {
+          "text": "okrs"
+        },
+        {
+          "text": "Resultados chave"
+        },
+        {
+          "text": "Resultados chave objetivos"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "oportunidades",
+      "examples": [
+        {
+          "text": "Oportunidades e áreas de crescimento para os próximos anos"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "premioLoebner",
+      "examples": [
+        {
+          "text": "Loebner Prize"
+        },
+        {
+          "text": "O que é Loebner Prize"
+        },
+        {
+          "text": "Prêmio Loebner"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "recuperacaoDaInformacao",
+      "examples": [
+        {
+          "text": "O que é recuperação da informação"
+        },
+        {
+          "text": "Quero conhecer recuperação da informação"
+        },
+        {
+          "text": "Recuperação da informração"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "resultados",
+      "examples": [
+        {
+          "text": "Quais são os resultados na adoção"
+        }
+      ],
+      "description": "Resultados adoção"
+    },
+    {
+      "intent": "testeDeTuring",
+      "examples": [
+        {
+          "text": "O que é Teste de Turing"
+        },
+        {
+          "text": "Teste de Turing"
+        },
+        {
+          "text": "Turing Test"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "resposta_correta_pergunta_1",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "entidade",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "resposta_correta_pergunta_2",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "cores vivas",
+          "synonyms": [
+            "colorido",
+            "varias cores"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sim_nao",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "nao",
+          "synonyms": [
+            "nada",
+            "no",
+            "nope",
+            "nunca",
+            "sqn"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sim",
+          "synonyms": [
+            "certeza",
+            "claro",
+            "sim",
+            "ya",
+            "yeah",
+            "yes"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "webhooks": [
+    {
+      "url": "https://us-south.functions.appdomain.cloud/api/v1/web/18259ff6-73ae-40ff-a2c8-6840f473d252/default/FrancoBotPerguntaProGoogle.json",
+      "name": "main_webhook",
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ]
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Bem-vindo",
+      "output": {
+        "generic": [
+          {
+            "source": "https://s3.gifyu.com/images/francobot-entrada.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Olá. Eu sou o FrancoBot, seu professor virtual de ChatBots. Serei seu guia em conteúdos relacionados ao assunto. Mas você pode digitar qualquer tema que deseja conhecer (dentro do contexto, claro). Se eu não conhecer o tema, vou  pedir pro Aurélio ajudá-lo."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {},
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "welcome",
+      "dialog_node": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ops..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1620415967862",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1620700664710"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_10_1620700515772",
+      "previous_sibling": "node_1_1621620982432"
+    },
+    {
+      "type": "standard",
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#chatBots",
+      "dialog_node": "node_10_1620700838470"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ops"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1620414755343",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1620700664710"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_10_1620737468227",
+      "previous_sibling": "node_9_1621108778525"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1620866047458"
+      },
+      "conditions": "#interfacesNaturais",
+      "dialog_node": "node_10_1620871554724",
+      "previous_sibling": "node_9_1620871468062"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Confirmações e marcadores conversacionais\n\nConfirmações \nGarantir que as pessoas se sintam compreendidas é uma parte importante de qualquer bom design de [interfaces conversacionais]. Isso também serve para permitir que a pessoa saiba quando ela não foi compreendida [pela interface].\nConfirmação explícita: Força a pessoa a confirmar as informações: \"Acho que você quer criar um lembrete para 'Pagar as contas'. É isso mesmo?\"\nConfirmação implícita: Avisa que compreendeu a pessoa e o que foi entendido, mas não pede para confirmar. \"Ok! Vou criar o lembrete 'Pagar as contas'\"\n\nMarcadores\nOs marcadores são uma forma importante de permitir que o usuário saiba onde está na conversa e que é compreendido. As pessoas também ficarão mais engajadas quando o sistema estiver usando maneiras básicas e responderão na mesma moeda.\n-Progressão/linha do tempo: \"Primeiro...\", \"Estamos na metade...\", \"Faltam mais duas...\", \"Chegamos ao fim\"\n-Reconhecimento: \"Obrigado!\", \"Sinto muito por isso\", \"Entendi!\", \"Tudo certo!\"\n-Feedback positivo: \"Bom trabalho!\", \"Fico feliz em saber disso\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#confirmacaoMarcadores",
+      "dialog_node": "node_10_1620951172245",
+      "previous_sibling": "node_11_1620951841325"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://media1.tenor.com/images/252249b2b9f31acfa3afb1228bc900b7/tenor.gif?itemid=12585599",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Parabéns! Isso mesmo. E normalmente dão contexto a intenções."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1621559781405",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1621561865768"
+      },
+      "conditions": "@resposta_correta_pergunta_1",
+      "dialog_node": "node_10_1621560931314"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1621562882275"
+      },
+      "conditions": "#dashboards",
+      "dialog_node": "node_10_1621624551331",
+      "previous_sibling": "node_9_1621624490703"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1620866368776"
+      },
+      "conditions": "#estagiosAdocao",
+      "dialog_node": "node_11_1620871853390",
+      "previous_sibling": "node_10_1620871554724"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Algumas conclusões sobre chatbots:\n\n● Geração de conversa é legal, mas ATUALMENTE o que funciona melhor é o paradigma de árvore;\n● Defina um objetivo para o bot;\n● Jogo da Imitação (persona ou não persona)?\n● Curadoria SEMPRE;"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#conclusoesChatbots",
+      "dialog_node": "node_11_1620951841325",
+      "previous_sibling": "node_9_1620950961481"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1621562529704"
+      },
+      "conditions": "#chatbotAnalytics",
+      "dialog_node": "node_11_1621624699615",
+      "previous_sibling": "node_10_1621624551331"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Geração de Linguagem Natural é o processo de produzir linguagem natural a partir de dados estruturados. \n\nExemplos de aplicação: tradução, \"smart reply\", geração de texto, respostas à perguntas abertas e sumarização de texto.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1620415967862",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1620415967862"
+      },
+      "conditions": "#geracaoLinguagemNatural",
+      "dialog_node": "node_1_1620696884097",
+      "previous_sibling": "node_4_1620416593266"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1620416739736"
+      },
+      "conditions": "#recuperacaoDaInformacao",
+      "dialog_node": "node_1_1620736789184",
+      "previous_sibling": "node_27_1620701095614"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Evolução da interação humano-computador:\n\n-CLI (linha de comando): codificada e restrita\n-GUI (gráfica): através de metáfora e exploratória\n-NUI (natural): diretiva e intuitiva"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#evoluçãoInterecaoHumanaComputador",
+      "dialog_node": "node_1_1620865395373",
+      "previous_sibling": "node_6_1620864576385"
+    },
+    {
+      "type": "standard",
+      "title": "Boa pergunta!",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Interessante. Não sei se entendi direito. Podes tentar elaborar melhor?  Vou perguntar pro Aurélio."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://s3.gifyu.com/images/WhatsApp-Image-2021-05-15-at-16.56.23.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Manda aí!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "context": {
+        "primeira_vez": 0
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_1_1620868840415",
+      "previous_sibling": "node_5_1621559677472"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Abordagens na construção de chatbots.\n\nElementos em um chatbot baseado na recuperação de informação:\n\n-Intenção: representa uma determinada \"intenção\" da pessoa (ex: saudação, comprar algo, etc). Geralmente, são constituídas por um conjunto de exemplos.\n\n-Entidades: conjunto de códigos, símbolos ou palavras que representam um determinado valor (ex: data, número de telefone, email, etc.). Geralmente, dão contexto a uma determinada intenção.\n-Slots: conjunto de entidades relacionadas a uma determinada intenção (ex: para comprar um produto preciso saber o nome e a quantidade)\n\n-Diálogos: sequência de intenções e respostas, da pessoa e do chatbot respectivamente"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#abordagensCriacaoChatbots",
+      "dialog_node": "node_1_1620946537074",
+      "previous_sibling": "node_7_1620870645909"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1620698647148"
+      },
+      "conditions": "#começar",
+      "dialog_node": "node_1_1621540681875",
+      "previous_sibling": "node_10_1620951172245"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1620698647148"
+      },
+      "conditions": "#começar",
+      "dialog_node": "node_1_1621556167984",
+      "previous_sibling": "node_11_1621624699615"
+    },
+    {
+      "type": "standard",
+      "title": "Curadoria",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Curadoria\n\n“O curador será o profissional responsável por fazer a manutenção e o gerenciamento do conteúdo do assistente virtual, avaliando sua assertividade e garantindo que o fluxo de \nconversa ocorra da forma correta, levando em conta questões como linguagem e persona.\"\n\n\nPodemos dizer que as atividades dos curadores envolvem:\n● Analisar e qualificar as interações;\n● Identificar ofensores (positivos e negativos) e medir a evolução do chatbot;\n● Melhorar o conteúdo do bot, levando em conta princípios de UX Writting;\n● Criar e/ou alterar as intenções e seus respectivos exemplos/sinônimos;\n\nDependendo da estrutura organizacional da empresa, os curadores \ntambém podem ser responsáveis por:\n● Gerar insights para campanhas de marketing e comunicação corporativa;\n● Montar relatórios semanais/mensais sobre assertividade do bot;\n● Trabalhar com a equipe de desenvolvimento na criação de automações dentro do chatbot;\n● Conduzir planos de ação para melhoria de algum escopo;"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1620414755343",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1620698647148"
+      },
+      "conditions": "#curadoria",
+      "dialog_node": "node_1_1621559291061",
+      "previous_sibling": "node_3_1621558675292"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1620415967862",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1621542433252"
+      },
+      "conditions": "#NLP",
+      "dialog_node": "node_1_1621620982432",
+      "previous_sibling": "node_2_1621542669610"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1620869176786"
+      },
+      "conditions": "#resultados",
+      "dialog_node": "node_12_1620871927251",
+      "previous_sibling": "node_11_1620871853390"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1620948247813"
+      },
+      "conditions": "#interacoesRicas",
+      "dialog_node": "node_12_1620952027524",
+      "previous_sibling": "node_7_1620948448371"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1620870251527"
+      },
+      "conditions": "#oportunidades",
+      "dialog_node": "node_13_1620871985124",
+      "previous_sibling": "node_12_1620871927251"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620950637837"
+      },
+      "conditions": "#descobertaBots",
+      "dialog_node": "node_13_1620952071118",
+      "previous_sibling": "node_12_1620952027524"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1620870645909"
+      },
+      "conditions": "#desafios",
+      "dialog_node": "node_14_1620872023775",
+      "previous_sibling": "node_13_1620871985124"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1620950961481"
+      },
+      "conditions": "#engajamentos",
+      "dialog_node": "node_14_1620952102831",
+      "previous_sibling": "node_13_1620952071118"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_11_1620951841325"
+      },
+      "conditions": "#conclusoesChatbots",
+      "dialog_node": "node_15_1620952198392",
+      "previous_sibling": "node_14_1620952102831"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1620951172245"
+      },
+      "conditions": "#confirmacaoMarcadores",
+      "dialog_node": "node_16_1620952265671",
+      "previous_sibling": "node_15_1620952198392"
+    },
+    {
+      "type": "standard",
+      "title": "Começo",
+      "output": {
+        "generic": [
+          {
+            "title": "Digite um tema sobre Chatbots que você deseja conhecer. Se você não sabe por onde começar,  elaborei uma lista para você.",
+            "options": [
+              {
+                "label": "Processamento de linguagem natural",
+                "value": {
+                  "input": {
+                    "text": "NLP"
+                  }
+                }
+              },
+              {
+                "label": "Chatbots",
+                "value": {
+                  "input": {
+                    "text": "Chatbots"
+                  }
+                }
+              },
+              {
+                "label": "Métricas conversacionais",
+                "value": {
+                  "input": {
+                    "text": "Métricas conversacionais"
+                  }
+                }
+              },
+              {
+                "label": "Curadoria",
+                "value": {
+                  "input": {
+                    "text": "Curadoria"
+                  }
+                }
+              },
+              {
+                "label": "Fim",
+                "value": {
+                  "input": {
+                    "text": "Encerramento"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "Bem-vindo",
+      "context": {
+        "ja_dei_oi": 0
+      },
+      "conditions": "true",
+      "dialog_node": "node_2_1620698647148"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1620416593266"
+      },
+      "conditions": "#classificacaoTexto",
+      "dialog_node": "node_2_1620736840935",
+      "previous_sibling": "node_1_1620736789184"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Os tipo de \"interfaces naturais\":\n\n-chat: utiliza chat como meio\n-voz: utiliza voz como meio\n-multimodal: híbrida, utiliza tanto chat quanto voz como meio \n\nComandos em voz têm mudado o comportamento das pessoas. 60% das pessoas brasileiras controlam celulares pela voz. 1,6 bi de crianças nascendo dentro dessa realidade."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#interfacesNaturais",
+      "dialog_node": "node_2_1620866047458",
+      "previous_sibling": "node_1_1620865395373"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Boas práticas com chatbots:\n\n-Personalidade: decida e tipo de personalidade para o seu bot, considere a audiência, o tipo de tarefa e marca associada.\n\n-Logos, ícones [e avatares]: ter esses elementos ajudam a identificar o bot, o que também influencia na percepção da marca. Pode considerar idade, gênero, e outros atributos humanos.\n\n-Nomeação: nome fácil e que associa a marca que você esteja trabalhando. Também pode ser considerado usar nomes humanos para criar uma maior conexão humana. \n\n-Intervenção humana: direcionar uma conversa para uma pessoa é fácil e pode ser transparente na conversa. Ter uma pessoa revisando e ajudando o bot pode ser uma estratégia inicial."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#boasPraticas",
+      "dialog_node": "node_2_1620947132010",
+      "previous_sibling": "node_1_1620946537074"
+    },
+    {
+      "type": "standard",
+      "title": "NLP",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Linguagem natural é qualquer linguagem desenvolvida naturalmente pelo ser humano, de forma não premeditada, como resultado da facilidade inata para a linguagem possuída pelo intelecto humano. Processamento de linguagem natural (ou NLP, na sigla em inglês) É o estudo de técnicas computacionais que auxiliam computadores a entender e se comunicar através de linguagens humanas."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1620414755343",
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#NLP",
+      "dialog_node": "node_2_1621542433252"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1620415967862",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1620698647148"
+      },
+      "conditions": "#começar",
+      "dialog_node": "node_2_1621542669610",
+      "previous_sibling": "node_3_1620697322953"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Métricas relacionadas à matriz de confusão.\n\n-ACURÁCIA: A pergunta que a acurácia responde é a seguinte: no geral, o quão frequentemente o classificador está correto?\n\n-PRECISÃO: Daqueles que classifiquei como corretos, quantos efetivamente eram?\n\n-RECALL: Quando realmente é da classe X, o quão frequente eu classifiquei como X?\n\n-F1 SCORE: Combina precisão e recall de modo a trazer um número único que indique a \nqualidade geral do seu modelo"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1621558935328",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1621558935328"
+      },
+      "conditions": "#metricas",
+      "dialog_node": "node_2_1621561713678",
+      "previous_sibling": "node_5_1621560714056"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://media1.tenor.com/images/334ceee7b481e6487183db28ee07a7a1/tenor.gif?itemid=4999851",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Show de bola! Vocês estudou. Cores muito vivas podem até atrapalhar a interação. Melhor achar o equilíbrio na UX."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1621561865768",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1621562600026"
+      },
+      "conditions": "@resposta_correta_pergunta_2",
+      "dialog_node": "node_2_1621562009435"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://media1.tenor.com/images/d9596ae7bd44ef1e4b485bcd8a7b56aa/tenor.gif?itemid=14399997",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Hum. Não é bem isso. Vamos relembrar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1621561865768",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1620948247813"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_2_1621562139838",
+      "previous_sibling": "node_2_1621562009435"
+    },
+    {
+      "type": "standard",
+      "title": "Fim",
+      "parent": "node_4_1620414755343",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1621559677472"
+      },
+      "conditions": "#encerramento",
+      "dialog_node": "node_2_1621562923943",
+      "previous_sibling": "node_1_1621559291061"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1620415967862"
+      },
+      "conditions": "#NLP",
+      "dialog_node": "node_27_1620701095614",
+      "previous_sibling": "node_10_1620700838470"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ops..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1620700664710"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_28_1620704051069",
+      "previous_sibling": "node_3_1621622233376"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Entendimento de Linguagem Natural (ou NLU, na sigla em inglês) é inteligência artificial que usa software para interpretar texto ou qualquer tipo de informação desestruturada.  NLU pode assimilar um texto, traduzi-lo para uma linguagem computacional e produzir uma saída em uma linguagem que humanos podem compreender. \n\nExemplos de aplicações para NLU:\n-Assistentes digitais: Chatbot, URA, Alexa, Google Home, etc.\n-Análise de sentimento: descobrir qual o efeito de determinada ação\nsobre o usuário e direciona-lo para um\ntratamento mais adequado"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1620415967862",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1620415967862"
+      },
+      "conditions": "#entendimentoLinguagemNatural",
+      "dialog_node": "node_3_1620697322953",
+      "previous_sibling": "node_1_1620696884097"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Loebner Prize é uma competição anual em inteligência artificial que concede prêmios aos programas de computador considerados pelos juízes como os mais humanos. O formato da competição é o de um teste padrão de Turing. Em cada rodada, um juiz humano simultaneamente realiza conversas textuais com um programa de computador e um ser humano via computador. Com base nas respostas, o juiz deve decidir qual é qual."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#premioLoebner",
+      "dialog_node": "node_3_1620702579919",
+      "previous_sibling": "node_9_1620702373861"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620696884097"
+      },
+      "conditions": "#geracaoLinguagemNatural",
+      "dialog_node": "node_3_1620737095334",
+      "previous_sibling": "node_2_1620736840935"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Estágios de adoção de chatbots:\n\n1-A maioria das pessoas e empresas fornecedoras de software não tem conhecimento dos bots sobre como usá-los.\n\n2-Precisamos de bots! Empresas fornecedoras de software começam a construir bots. A maioria são péssimos no início, pois há muito pouca experiência na indústria.\n\n3-Somos bot-first! Várias empresas criadoras de bots obtêm sucesso e a interface de usuário do bot se torna comum. As startups começam a adotar uma mentalidade de bot-first.\n\n4-Somos bot-only! Alguns serviços são desenvolvidos com uma interface apenas para bots e outros com a maior parte de seus fluxos de trabalho acontecendo durante a conversa."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#estagiosAdocao",
+      "dialog_node": "node_3_1620866368776",
+      "previous_sibling": "node_2_1620866047458"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tá bão. Volta pro Franco!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1620868840415",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1620698647148"
+      },
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_3_1620869999830"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Aspectos a considerar com chatbots.\n\n-Onboarding:  Parte crucial para o sucesso do bot, aqui você  apresenta as principais funcionalidades e sugere formas de conversar com o bot.\n\n-Script de funcionalidade: Script dos fluxos para cada funcionalidade dos bots,  incluindo caminhos felizes e mitigações para falhas.\n\n-Feedback e erros: O feedback é uma das chaves para tornar o seu bot  melhor, e o tratamento adequado das falhas é a chave para uma boa experiência do usuário, bem como uma  maneira de melhorar o seu bot com o passar do tempo.\n\n-Ajuda e suporte: A qualquer momento durante a conversa, as pessoas podem se perder ou ir para fora do caminho ou fluxo feliz (o fluxo principal esperado). Fornecer suporte e ajuda pode garantir um uso mais suave do seu bot."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#aspectosConsiderar",
+      "dialog_node": "node_3_1620947759353",
+      "previous_sibling": "node_2_1620947132010"
+    },
+    {
+      "type": "standard",
+      "title": "Chatbots",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Chatbot (ou chatterbot) é um programa de computador que tenta simular um ser humano na conversação com as pessoas. O objetivo é responder as perguntas de tal forma que as pessoas tenham a impressão de estar conversando com outra pessoa e não com um programa de computador. Após o envio de perguntas em linguagem natural, o programa consulta uma base de conhecimento e em seguida fornece uma resposta que tenta imitar o comportamento humano."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1620414755343",
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#chatBots",
+      "dialog_node": "node_3_1621538539552",
+      "previous_sibling": "node_2_1621542433252"
+    },
+    {
+      "type": "standard",
+      "title": "Métricas conversacionais",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Métricas conversacionais.\n\nWithout data, you are just another person with an opinion. (W. Edwards Deming).\n\n-Avaliar sucesso\n-Identificar oportunidade\n-Priorizar ações\n-Aprender com o que foi feito\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1620414755343",
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#metricasConversacionais",
+      "dialog_node": "node_3_1621558675292",
+      "previous_sibling": "node_3_1621538539552"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "Qual das opções abaixo **não** pode ser considerada uma interação rica em um chatbot?",
+            "options": [
+              {
+                "label": "Botões: atalhos na conversa",
+                "value": {
+                  "input": {
+                    "text": "botão"
+                  }
+                }
+              },
+              {
+                "label": "Menus persistentes: estrutura de suporte",
+                "value": {
+                  "input": {
+                    "text": "menu"
+                  }
+                }
+              },
+              {
+                "label": "Emojis, gifs e imagens: atalhos linguísticos e funções",
+                "value": {
+                  "input": {
+                    "text": "emoji"
+                  }
+                }
+              },
+              {
+                "label": "Cores vivas: Quanto mais colorido maior a interação",
+                "value": {
+                  "input": {
+                    "text": "cores vivas"
+                  }
+                }
+              },
+              {
+                "label": "Webviews: direcionamento para uma determinada página web",
+                "value": {
+                  "input": {
+                    "text": "webview"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_5_1621559677472",
+      "conditions": "! @resposta_correta_pergunta_2",
+      "dialog_node": "node_3_1621561865768",
+      "previous_sibling": "node_8_1621559781405"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1621558935328",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1620698647148"
+      },
+      "conditions": "#começar",
+      "dialog_node": "node_3_1621562099230",
+      "previous_sibling": "node_4_1621622373327"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1621538539552"
+      },
+      "conditions": "#chatBots",
+      "dialog_node": "node_3_1621622233376",
+      "previous_sibling": "node_1_1621540681875"
+    },
+    {
+      "type": "standard",
+      "title": "Registra tema nível 1",
+      "parent": "node_2_1620698647148",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "true",
+      "dialog_node": "node_4_1620414755343"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Classificação de texto é a tarefa de associar um conjunto de categorias pré-determinadas a um texto aberto.\n\nExemplos:\n-Anti-spam\n-Labellng \n-Detecção de idioma\n-Análise de redes sociais\n-Detecção de intenção"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1620415967862",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1620415967862"
+      },
+      "conditions": "#classificacaoTexto",
+      "dialog_node": "node_4_1620416593266",
+      "previous_sibling": "node_6_1620416739736"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1620697322953"
+      },
+      "conditions": "#entendimentoLinguagemNatural",
+      "dialog_node": "node_4_1620737209227",
+      "previous_sibling": "node_3_1620737095334"
+    },
+    {
+      "type": "standard",
+      "title": "Pergunta pro Aurélio",
+      "parent": "node_1_1620868840415",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "query": "<?input.text?>"
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1620698647148"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_4_1620869063606",
+      "previous_sibling": "node_3_1620869999830"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alguns exemplos de interações ricas com chatbots.\n\n-Botões: atalhos na conversa\n-Menus persistentes: estrutura de suporte\n-Emojis, gifs e imagens: atalhos linguísticos e funções\n-Webviews: direcionamento para uma determinada página web\n-Templates: carrossel, anexos e outros formatos específicos para cada canal\n-Canvas interativo: Páginas web interativas que funcionam e são integradas em dispositivos com tela"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#interacoesRicas",
+      "dialog_node": "node_4_1620948247813",
+      "previous_sibling": "node_3_1620947759353"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://media.tenor.com/images/0949f717e488c1531c8715c4baef5e09/tenor.gif",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Não sei se fui claro quando expliquei. Deixe-me explicar novamente."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1621559781405",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620946537074"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_4_1621560977196",
+      "previous_sibling": "node_10_1621560931314"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "Chatbot Analytics",
+            "source": "https://s3.gifyu.com/images/image3bc30f8a443bda99.png",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_9_1621558935328",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1621558935328"
+      },
+      "conditions": "#chatbotAnalytics",
+      "dialog_node": "node_4_1621562529704",
+      "previous_sibling": "node_2_1621561713678"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1621558935328",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1621558675292"
+      },
+      "conditions": "#metricasConversacionais",
+      "dialog_node": "node_4_1621622373327",
+      "previous_sibling": "node_6_1621563684622"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1620702373861"
+      },
+      "conditions": "#testeDeTuring",
+      "dialog_node": "node_5_1620737250989",
+      "previous_sibling": "node_4_1620737209227"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alguns resultados na adoção de chatbots:\n\n-Nos EUA, a utilização de chatbots resulta em uma economia de anual de US$ 23 bilhões\n\n-Número de chatbots produzidos no Brasil por ano (acumulado):\n  2017:    8 mil\n  2018:  17 mil\n  2019:  60 mil\n  2020: 101 mil\n\n-Raio-x dos bots em operação no Brasil:\n24 mil bots em atividade\nPor mês, cada bot conversa em média com 8 mil pessoas e troca 92 mil mensagens"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#resultados",
+      "dialog_node": "node_5_1620869176786",
+      "previous_sibling": "node_3_1620866368776"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620946537074"
+      },
+      "conditions": "#abordagensCriacaoChatbots",
+      "dialog_node": "node_5_1620948307038",
+      "previous_sibling": "node_14_1620872023775"
+    },
+    {
+      "type": "standard",
+      "title": "Fim",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hum. Vamos ver se você entendeu a matéria."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#encerramento",
+      "dialog_node": "node_5_1621559677472",
+      "previous_sibling": "node_1_1621556167984"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Indicadores\n\n-VOLUMETRIA: Contagem de conversas ou mensagens totais com o chatbot\n-Taxa de abandono: Número de usuários que não seguem determinado fluxo até o final\n-Taxa de sucesso Quantos e quais fluxos foram concluídos com sucesso?\n-Retenção: Usuários que voltaram a utilizar o chatbot.\n-Media de mensagens por atendimento: Em quantas mensagens o bot consegue resolver o atendimento?\n-Feedback do usuário: Consegui ajudar você?\n-Retenção: Usuários que voltaram a utilizar o chatbot.\n-Taxa de transbordo: Número de usuários que solicitam por um atendimento humano ou outro mecanismo (abertura de chamado, email, etc)\n-Mensagens não entendidas: Quantas foram e quais as principais intenções que não foram entendidas pelo bot?\n-SENTIMENTO EM RELAÇÃO AO BOT: Avaliação via NPS, formulário, etc.\n-NOVOS USUÁRIOS: Captura o sucesso de alguma campanha de promoção (link no site, notificação de whatsapp, etc)\n-ALCANCE ORGÂNICO: Percentual de mensagens que foram iniciadas por um ser humano em comparação com mensagens do bot (whatsapp, messenger, etc)\n-BOUNCE RATE: 1) Usuários que entraram no bot mas não fizeram nenhuma interação\n2) Usuários que entraram e pediram direto o transbordo\n-Taxa de fallback: 1) Não entendeu e existe 2) Não entendeu e não existe 3) Usuário fez o reset e voltou ao início do fluxo\n-ROI: Comparar o custo do atendimento humano com o custo do atendimento pelo chatbot"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1621558935328",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1621558935328"
+      },
+      "conditions": "#indicadores",
+      "dialog_node": "node_5_1621560714056"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "Dashboard",
+            "source": "https://s3.gifyu.com/images/imagefcccb8d72cddbb83.png",
+            "description": "Exemplo de um painel de análise de chatbot",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_9_1621558935328",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1621558935328"
+      },
+      "conditions": "#dashboards",
+      "dialog_node": "node_5_1621562882275",
+      "previous_sibling": "node_4_1621562529704"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1621560714056"
+      },
+      "conditions": "#indicadores",
+      "dialog_node": "node_5_1621623511313",
+      "previous_sibling": "node_16_1620952265671"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Recuperação da informação (IR na sigla em inglês) é a busca em grandes coleções de materiais (geralmente documentos)  de natureza não estruturada (geralmente texto) que satisfaça uma necessidade de informação."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1620415967862",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1620415967862"
+      },
+      "conditions": "#recuperacaoDaInformacao",
+      "dialog_node": "node_6_1620416739736"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1620702579919"
+      },
+      "conditions": "#premioLoebner",
+      "dialog_node": "node_6_1620737280903",
+      "previous_sibling": "node_5_1620737250989"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Em 1980, o filósofo John Searle propôs \"o argumento do quarto chinês\", no qual uma pessoa se senta em uma sala e recebe páginas de chinês. A pessoa, que não lê nem entende chinês, procura os símbolos em um livro de regras (que fornece os caracteres apropriados em resposta), copia as respostas e depois as devolve. Para alguém fora da sala, parece que a pessoa que está respondendo entende chinês perfeitamente. Searle argumentou que, se um computador fizesse a mesma coisa, poderíamos considerá-lo inteligente - quando, na verdade, nada está envolvido. Afinal, a pessoa na sala não entende chinês."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#argumentoQuartoChines",
+      "dialog_node": "node_6_1620864576385",
+      "previous_sibling": "node_3_1620702579919"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oportunidades e áreas de crescimento nos próximos 2 a 3 anos:\n\nAssistentes pessoais\nProcessamento de linguagem natural\nTransações conversacionais (diretas e  indiretas)\nPersonalização de conteúdo\nComércio conversacional\nEntrega de serviços\nEstratégias omnichannel\nNovos modelos de negócio\nProjetos avançados /novas tecnologias\nMarketing conversacional\nProjetos voltados para experiência do trabalho\nExperiências multimodais\nJogos conversacionais\nEntretenimento ou notícias\nComputação ambiental"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#oportunidades",
+      "dialog_node": "node_6_1620870251527",
+      "previous_sibling": "node_5_1620869176786"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1620947132010"
+      },
+      "conditions": "#boasPraticas",
+      "dialog_node": "node_6_1620948370513",
+      "previous_sibling": "node_5_1620948307038"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "OKRS.\n\nPrecisam ser mensuráveis e simples.\nOBJECTIVE\nKEY RESULTS"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://s3.gifyu.com/images/image0dde66f0435ca2d3.png",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_9_1621558935328",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1621558935328"
+      },
+      "conditions": "#okrs",
+      "dialog_node": "node_6_1621563684622",
+      "previous_sibling": "node_5_1621562882275"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1621558675292"
+      },
+      "conditions": "#metricasConversacionais",
+      "dialog_node": "node_6_1621623568120",
+      "previous_sibling": "node_5_1621623511313"
+    },
+    {
+      "type": "standard",
+      "title": "Ops",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "dialog_node": "node_7_1620700664710",
+      "previous_sibling": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Desafios e preocupações para os próximos 2 a 3 anos:\n\nLei geral de proteção de dados\nPrivacidade e segurança\nDiversidade (fala, cor, gírias, gênero, etc)\nMelhoria na personalização\nEncurtar os ciclos de melhoria contínua\nFalta de entendimento de mercado / pessoas usuárias finais\nCusto de produção / criação de soluções\nReceber ou investir recursos (financeiro, tecnologia, pessoas, etc)\nRetorno do investimento\nDescoberta e divulgação das soluções"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#desafios",
+      "dialog_node": "node_7_1620870645909",
+      "previous_sibling": "node_6_1620870251527"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1620947759353"
+      },
+      "conditions": "#aspectosConsiderar",
+      "dialog_node": "node_7_1620948448371",
+      "previous_sibling": "node_6_1620948370513"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1621561713678"
+      },
+      "conditions": "#metricas",
+      "dialog_node": "node_7_1621623655135",
+      "previous_sibling": "node_6_1621623568120"
+    },
+    {
+      "type": "standard",
+      "title": "Mostra temas de chatbots",
+      "output": {
+        "generic": [
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Teste de Turing",
+                "value": {
+                  "input": {
+                    "text": "Teste de Turing"
+                  }
+                }
+              },
+              {
+                "label": "Prêmio Loebner",
+                "value": {
+                  "input": {
+                    "text": "Prêmio Loebner"
+                  }
+                }
+              },
+              {
+                "label": "Argumento do quarto chinês",
+                "value": {
+                  "input": {
+                    "text": "Argumento do quarto chinês"
+                  }
+                }
+              },
+              {
+                "label": "Evolução da interação humano-computador",
+                "value": {
+                  "input": {
+                    "text": "Evolução da interação humano-computador"
+                  }
+                }
+              },
+              {
+                "label": "Tipos de interface",
+                "value": {
+                  "input": {
+                    "text": "Tipos de interface"
+                  }
+                }
+              },
+              {
+                "label": "Estágios de adoção",
+                "value": {
+                  "input": {
+                    "text": "Estágios de adoção"
+                  }
+                }
+              },
+              {
+                "label": "Resultados na adoção de chatbots",
+                "value": {
+                  "input": {
+                    "text": "Resultados"
+                  }
+                }
+              },
+              {
+                "label": "Oportunidades e áreas de crescimento",
+                "value": {
+                  "input": {
+                    "text": "Oportunidades e áreas de crescimento"
+                  }
+                }
+              },
+              {
+                "label": "Desafios e preocupações",
+                "value": {
+                  "input": {
+                    "text": "Desafios e preocupações"
+                  }
+                }
+              },
+              {
+                "label": "Abordagens para criação",
+                "value": {
+                  "input": {
+                    "text": "Abordagens chatbots"
+                  }
+                }
+              },
+              {
+                "label": "Boas práticas",
+                "value": {
+                  "input": {
+                    "text": "Boas práticas"
+                  }
+                }
+              },
+              {
+                "label": "Aspectos a consierar",
+                "value": {
+                  "input": {
+                    "text": "Aspectos a considerara"
+                  }
+                }
+              },
+              {
+                "label": "Interações ricas",
+                "value": {
+                  "input": {
+                    "text": "Interações ricas"
+                  }
+                }
+              },
+              {
+                "label": "Descoberta de chatbots",
+                "value": {
+                  "input": {
+                    "text": "Descoberta"
+                  }
+                }
+              },
+              {
+                "label": "Engajamentos",
+                "value": {
+                  "input": {
+                    "text": "Engajamentos"
+                  }
+                }
+              },
+              {
+                "label": "Confirmações e marcadores",
+                "value": {
+                  "input": {
+                    "text": "Confirmações e marcadores"
+                  }
+                }
+              },
+              {
+                "label": "Conclusões",
+                "value": {
+                  "input": {
+                    "text": "Conclusões"
+                  }
+                }
+              },
+              {
+                "label": "Voltar ao início",
+                "value": {
+                  "input": {
+                    "text": "Começar"
+                  }
+                }
+              },
+              {
+                "label": "Rever conteúdo de chatbots",
+                "value": {
+                  "input": {
+                    "text": "Chatbots"
+                  }
+                }
+              }
+            ],
+            "description": "Escolha um dos conteúdos relacionados a chatbots para aprofundar-se no tema. Se desejar, você pode também escolher qualquer outro tema, ou ainda recomeçar",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1621538539552",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "true",
+      "dialog_node": "node_8_1620416361706"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1620864576385"
+      },
+      "conditions": "#argumentoQuartoChines",
+      "dialog_node": "node_8_1620871203037",
+      "previous_sibling": "node_6_1620737280903"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alguns exemplos de ações para descoberta/divulgação de chatbosts.\n\n-Anúncios/ads: Anúncios conversacionais ou diretos para iniciar conversas.\n-Divulgação promocional: Divulgação em massa do bot em diferentes mídias sugerindo iniciar a conversa com o bot\n-Embeded / QR Codes: adicionar pontos de entradas no bot em sites ou em impressos.\n-Links diretos: links diretos para iniciar a conversa com o bot (é possível adicionar parâmetros na URL).\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#descobertaBots",
+      "dialog_node": "node_8_1620950637837",
+      "previous_sibling": "node_4_1620948247813"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "title": "Na frase \"... é conjunto de códigos, símbolos ou palavras que representam um determinado valor (ex: data, número de telefone, email, etc.). Geralmente, dão contexto.\", do que estou falando?",
+            "options": [
+              {
+                "label": "Intenção",
+                "value": {
+                  "input": {
+                    "text": "intencao"
+                  }
+                }
+              },
+              {
+                "label": "Entidade",
+                "value": {
+                  "input": {
+                    "text": "entidade"
+                  }
+                }
+              },
+              {
+                "label": "Slot",
+                "value": {
+                  "input": {
+                    "text": "slot"
+                  }
+                }
+              },
+              {
+                "label": "Diálogo",
+                "value": {
+                  "input": {
+                    "text": "dialogo"
+                  }
+                }
+              },
+              {
+                "label": "Chatbot",
+                "value": {
+                  "input": {
+                    "text": "chatbot"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_5_1621559677472",
+      "conditions": "! @resposta_correta_pergunta_1",
+      "dialog_node": "node_8_1621559781405"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1621563684622"
+      },
+      "conditions": "#okrs",
+      "dialog_node": "node_8_1621624409251",
+      "previous_sibling": "node_7_1621623655135"
+    },
+    {
+      "type": "standard",
+      "title": "Mostra temas de NLP",
+      "output": {
+        "generic": [
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Classificação de texto",
+                "value": {
+                  "input": {
+                    "text": "Classificação de texto"
+                  }
+                }
+              },
+              {
+                "label": "Recuperação de informação",
+                "value": {
+                  "input": {
+                    "text": "Recuperação de informação"
+                  }
+                }
+              },
+              {
+                "label": "Geração de linguagem natural",
+                "value": {
+                  "input": {
+                    "text": "Geração de linguagem natural"
+                  }
+                }
+              },
+              {
+                "label": "Entendimento de linguagem natural",
+                "value": {
+                  "input": {
+                    "text": "Entendimento de linguagem natural"
+                  }
+                }
+              },
+              {
+                "label": "Voltar ao início",
+                "value": {
+                  "input": {
+                    "text": "Começar"
+                  }
+                }
+              },
+              {
+                "label": "Rever conteúdo sobre NLP",
+                "value": {
+                  "input": {
+                    "text": "NLP"
+                  }
+                }
+              }
+            ],
+            "description": "Para aprofundar no tema NLP, escolha um dos conteúdos relacionados. Se desejar, você pode também escolher qualquer outro tema ou, ainda, recomeçar..",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1621542433252",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "true",
+      "dialog_node": "node_9_1620415967862"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O Teste de Turing testa a capacidade de uma máquina exibir comportamento inteligente equivalente a um ser humano, ou indistinguível deste. No exemplo ilustrativo original, um jogador humano entra em uma conversa, em linguagem natural, com outro humano e uma máquina projetada para produzir respostas indistinguíveis de outro ser humano. Todos os participantes estão separados um dos outros. Se o juiz não for capaz de distinguir com segurança a máquina do humano, diz-se que a máquina passou no teste. O teste não verifica a capacidade de dar respostas corretas para as perguntas; mas sim o quão próximas as respostas são das respostas dados por um ser humano típico."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#testeDeTuring",
+      "dialog_node": "node_9_1620702373861"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620865395373"
+      },
+      "conditions": "#evoluçãoInterecaoHumanaComputador",
+      "dialog_node": "node_9_1620871468062",
+      "previous_sibling": "node_8_1620871203037"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Estratégias para o engajamento em chatbots.\n\n-Notificações: enviar um novo conteúdo é uma boa maneira de se engajar novamente,supondo que seja desejado, valioso e não seja spam.\n-Invocação das pessoas: fornecer uma forma de invocar o bot e iniciar uma conversa.\nSubscription: assinaturas ou notificações periódicas são uma boa maneira de manter o seu bot na frente e no centro da vida do usuário.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1620416361706"
+      },
+      "conditions": "#engajamentos",
+      "dialog_node": "node_9_1620950961481",
+      "previous_sibling": "node_8_1620950637837"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá! Que bom te ter aqui!"
+              },
+              {
+                "text": "Oi!  Sou o FrancoBot, mas podes me chamar de FrancoBot."
+              },
+              {
+                "text": "Olá coleguinha!"
+              },
+              {
+                "text": "... oi?!"
+              },
+              {
+                "text": "Oi... olá... bom dia, boa noite e boa tarde!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_4_1620414755343",
+      "context": {
+        "ja_dei_oi": 1
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1620698647148"
+      },
+      "conditions": "#oi && ! $ja_dei_oi",
+      "dialog_node": "node_9_1621108778525",
+      "previous_sibling": "node_2_1621562923943"
+    },
+    {
+      "type": "standard",
+      "title": "Mostra temas de métricas conversacionais",
+      "output": {
+        "generic": [
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Indicadores",
+                "value": {
+                  "input": {
+                    "text": "Indicadores"
+                  }
+                }
+              },
+              {
+                "label": "Métricas",
+                "value": {
+                  "input": {
+                    "text": "Métricas"
+                  }
+                }
+              },
+              {
+                "label": "Chatbot analytics",
+                "value": {
+                  "input": {
+                    "text": "Chatbot analytics"
+                  }
+                }
+              },
+              {
+                "label": "OKRS",
+                "value": {
+                  "input": {
+                    "text": "OKRS"
+                  }
+                }
+              },
+              {
+                "label": "Dashboards",
+                "value": {
+                  "input": {
+                    "text": "Dashboards"
+                  }
+                }
+              },
+              {
+                "label": "Voltar ao início",
+                "value": {
+                  "input": {
+                    "text": "Começar"
+                  }
+                }
+              },
+              {
+                "label": "Rever o conteúdo sobre Métricas Conversacionais",
+                "value": {
+                  "input": {
+                    "text": "Métricas Conversacionais"
+                  }
+                }
+              }
+            ],
+            "description": "Escolha um dos conteúdos sobre métricas conversacionais ou outro conteúdo qualquer. Você também pode voltar ao início.",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1621558675292",
+      "conditions": "true",
+      "dialog_node": "node_9_1621558935328"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Muito bem! Acredito que você já tem informação suficiente para prosseguir nos estudos com chatbots. Lembrando que isso é só a ponta do iceberg. Tem muito mais coisas pra aprender. Até logo! Se pintar alguma dúvida, é só voltar! Abraço do franco."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://s3.gifyu.com/images/francobot-entrada.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_5_1621559677472",
+      "conditions": "anything_else",
+      "dialog_node": "node_9_1621562600026",
+      "previous_sibling": "node_3_1621561865768"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1621559291061"
+      },
+      "conditions": "#curadoria",
+      "dialog_node": "node_9_1621624490703",
+      "previous_sibling": "node_8_1621624409251"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Chatbots"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1620700664710",
+      "conditions": "#chatBots",
+      "dialog_node": "response_10_1620700711433",
+      "previous_sibling": "node_1_1620868840415"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok, vamos conhecer mais sobre chatbots"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1620414755343",
+      "conditions": "#chatBots",
+      "dialog_node": "response_2_1620415020517",
+      "previous_sibling": "response_6_1620414917766"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Classificação de texto consistem blá blá blá"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1620415967862",
+      "disabled": true,
+      "conditions": "#classificacaoTexto",
+      "dialog_node": "response_2_1620416223609",
+      "previous_sibling": "node_10_1620700515772"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Classificação de texto consiste em blá blá blá ...."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1620696884097",
+      "disabled": true,
+      "conditions": "#classificacaoTexto",
+      "dialog_node": "response_2_1620696884098"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Classificação de texto consiste em blá blá blá ...."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1621620982432",
+      "disabled": true,
+      "conditions": "#classificacaoTexto",
+      "dialog_node": "response_2_1621620982433"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Classificação de texto consiste em blá blá blá ...."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1620416593266",
+      "disabled": true,
+      "conditions": "#classificacaoTexto",
+      "dialog_node": "response_3_1620416617526"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Classificação de texto consiste em blá blá blá ...."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1621542669610",
+      "disabled": true,
+      "conditions": "#classificacaoTexto",
+      "dialog_node": "response_3_1621542669612"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok, curadoria."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1620414755343",
+      "conditions": "#curadoria",
+      "dialog_node": "response_3_1621558632234",
+      "previous_sibling": "response_7_1621558560798"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Classificação de texto consiste em blá blá blá ...."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1620697322953",
+      "disabled": true,
+      "conditions": "#classificacaoTexto",
+      "dialog_node": "response_4_1620697322954"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "$webhook_result_1.message <br><br>Então, voltamos aos assuntos da ementa. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1620869063606",
+      "conditions": "$webhook_result_1",
+      "dialog_node": "response_4_1620869223362"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O Teste de Turing visa ....."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "disabled": true,
+      "conditions": "#testeDeTuring",
+      "dialog_node": "response_5_1620416390863",
+      "previous_sibling": "node_28_1620704051069"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Loebner Prize é um concurso ..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1620416361706",
+      "disabled": true,
+      "conditions": "#premioLoebner",
+      "dialog_node": "response_5_1620416450675",
+      "previous_sibling": "response_5_1620416390863"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Minha memória tá meio fraca hoje. Acho que tomei café demais. Vamos deixar com o Franco!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1620869063606",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1620698647148"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "response_5_1620869598858",
+      "previous_sibling": "response_4_1620869223362"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Legal, vamos falar sobre Processamento de Linguagem Natural (Natual Language Processing)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1620414755343",
+      "conditions": "#NLP",
+      "dialog_node": "response_6_1620414917766",
+      "previous_sibling": "node_10_1620737468227"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Recuperação da informação é bibibi bobobó...."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1620415967862",
+      "disabled": true,
+      "conditions": "#recuperacaoDaInformacao",
+      "dialog_node": "response_7_1620416267199",
+      "previous_sibling": "response_2_1620416223609"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Certo, vamos ver métricas conversacionais"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1620414755343",
+      "conditions": "#metricasConversacionais",
+      "dialog_node": "response_7_1621558560798",
+      "previous_sibling": "response_2_1620415020517"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Já?!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1620414755343",
+      "conditions": "#encerramento",
+      "dialog_node": "response_7_1621562973324",
+      "previous_sibling": "response_3_1621558632234"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Você quis dizer:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Nenhuma das anteriores"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Você quis dizer:"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "FrancoBot",
+  "language": "pt-br",
+  "description": ""
+}

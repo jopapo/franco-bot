@@ -18,6 +18,8 @@ Professor: Cristiano Roberto Franco.
    1. Explicar arquitetura em um doc;
 1. Deverá ser criado um jupyter contendo pelo menos 3 indicadores ou métricas de conversas com o chatbot demonstradas através de gráficos;
 
+> [PPT](Trabalho 2 - Chatbots.pptx).
+
 # Arquitetura base
 
 Iniciamos um estudo com o [Rasa](https://rasa.com/docs/). Porém, subir a infra do [RasaX](https://rasa.com/docs/rasa-x/) para entregar as UIs de edição e do Bot e histórico de conversações exigia um osquestrador e no mínimo 10 serviços rodando (Nginx, Postgres, Redit, Rabbit, Duckling, Rasa, etc.). Apesar de conseguirmos subir e simular algumas regras, este fator se tornou determinante para desistirmos do modelo e testarmos uma alternativa para entrega do trabalho.
@@ -33,9 +35,9 @@ Então, optamos por uma abordagem usando [Watson da IBM](https://www.ibm.com/br-
 
 # Entregáveis
 
-* [Link para o chatbot](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=df8505c9-3abd-4505-8898-eaf4aced5775&serviceInstanceID=702cc5ee-81a9-4536-9e63-4c05c7a35ab0);
+* [Link para a UI do chatbot](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=df8505c9-3abd-4505-8898-eaf4aced5775&serviceInstanceID=702cc5ee-81a9-4536-9e63-4c05c7a35ab0);
 * [PDF](Fluxo%20FrancoBot.pdf) do fluxo de dialogo ([Google Draw](https://drive.google.com/file/d/1hPa19jKAlQ8dNSgVYtnAxopbYW-mc9pf/view?usp=sharing));
-* Fonte do projeto ([webservice backend](functions.py) e json do watson);
+* [Fonte do projeto](watson-src/) ([webservice backend](functions.py) e json do watson);
 * [Jupyter notebook](NB_FRANCOBOT.ipynb) com os [indicadores/métricas](#gráficos-extraídos-pelo-jupyter) no github;
 
 Como a persistência é do próprio Watson, criamos um indicador no jupyter usando o histórico de conversas.
