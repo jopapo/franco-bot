@@ -37,17 +37,18 @@ Então, optamos por uma abordagem usando [Watson da IBM](https://www.ibm.com/br-
 
 * [Link para a UI do chatbot](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=df8505c9-3abd-4505-8898-eaf4aced5775&serviceInstanceID=702cc5ee-81a9-4536-9e63-4c05c7a35ab0);
 * [PDF](Fluxo%20FrancoBot.pdf) do fluxo de dialogo ([Google Draw](https://drive.google.com/file/d/1hPa19jKAlQ8dNSgVYtnAxopbYW-mc9pf/view?usp=sharing));
-* [Fonte do projeto](watson-src/) ([webservice backend](functions.py) e json do watson);
+* [Fonte do projeto](watson-src/) ([webservice backend](function.py) e json do watson);
 * [Jupyter notebook](NB_FRANCOBOT.ipynb) com os [indicadores/métricas](#gráficos-extraídos-pelo-jupyter) no github;
 
-Como a persistência é do próprio Watson, criamos um indicador no jupyter usando o histórico de conversas.
-
 ## Gráficos extraídos pelo jupyter
+
+Como a persistência é do próprio Watson, criamos indicadores no jupyter usando o histórico de conversas. Com um [fluxo por intent](#Flow%20FrancoBot), informações de [acesso e interações](#Acessos%20e%20Interações) e uma [núvem de palavras](#Nuvem%20de%20Palavras%20de%20Textos%20procurados%20no%20FrancoBot) que parece ajudar bastante a direcionar visualmente o que os usuários mais usam.
+
 ### Flow FrancoBot
 
 ![image](https://user-images.githubusercontent.com/63163264/119211169-e7aa1700-ba86-11eb-8244-61b84ae9c807.png)
 
-### Gráficos
+### Acessos e Interações
 
 ![image](https://user-images.githubusercontent.com/63163264/119211194-09a39980-ba87-11eb-953d-ee861db10d26.png)   ![image](https://user-images.githubusercontent.com/63163264/119211199-14f6c500-ba87-11eb-930e-41c1c7d3ced4.png)
 
