@@ -42,7 +42,7 @@ Então, optamos por uma abordagem usando [Watson da IBM](https://www.ibm.com/br-
 
 ## Diagrama do Bot
 
-![resources](https://drive.google.com/uc?id=1hPa19jKAlQ8dNSgVYtnAxopbYW-mc9pf&export=download)
+![image](https://drive.google.com/uc?id=1hPa19jKAlQ8dNSgVYtnAxopbYW-mc9pf&export=download)
 
 ## Gráficos extraídos pelo jupyter
 
