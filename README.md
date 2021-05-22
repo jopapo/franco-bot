@@ -42,7 +42,7 @@ Então, optamos por uma abordagem usando [Watson da IBM](https://www.ibm.com/br-
 
 ## Gráficos extraídos pelo jupyter
 
-Como a persistência é do próprio Watson, criamos indicadores no jupyter usando o histórico de conversas. Com um [fluxo por intent](#Flow%20FrancoBot), informações de [acesso e interações](#Acessos%20e%20Interações) e uma [núvem de palavras](#Nuvem%20de%20Palavras%20de%20Textos%20procurados%20no%20FrancoBot) que parece ajudar bastante a direcionar visualmente o que os usuários mais usam.
+Como a persistência é do próprio Watson, criamos indicadores no jupyter usando o histórico de conversas. Com um [fluxo por intent](#flow-francobot), informações de [acesso e interações](#acessos-e-interações) e uma [núvem de palavras](#nuvem-de-palavras-de-textos-procurados-no-francobot) que parece ajudar bastante a direcionar visualmente o que os usuários mais usam.
 
 ### Flow FrancoBot
 
