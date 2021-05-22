@@ -18,7 +18,7 @@ Professor: Cristiano Roberto Franco.
    1. Explicar arquitetura em um doc;
 1. Deverá ser criado um jupyter contendo pelo menos 3 indicadores ou métricas de conversas com o chatbot demonstradas através de gráficos;
 
-> [PPT](Trabalho 2 - Chatbots.pptx).
+> [PPT do Trabalho](Trabalho%202%20-%20Chatbots.pptx).
 
 # Arquitetura base
 
