@@ -37,7 +37,7 @@ Então, optamos por uma abordagem usando [Watson da IBM](https://www.ibm.com/br-
 
 * [Link para a UI do chatbot](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=df8505c9-3abd-4505-8898-eaf4aced5775&serviceInstanceID=702cc5ee-81a9-4536-9e63-4c05c7a35ab0);
 * [PDF](Fluxo%20FrancoBot.pdf) do [fluxo de dialogo](#diagrama-do-bot);
-* [Fonte do projeto](watson-src/) ([webservice backend](function.py) e json do watson);
+* Fonte do projeto ([webservice backend](function.py) e [json do watson](watson-src/));
 * [Jupyter notebook](NB_FRANCOBOT.ipynb) com os [indicadores/métricas](#gráficos-extraídos-pelo-jupyter) no github.
 
 ## Diagrama do Bot
